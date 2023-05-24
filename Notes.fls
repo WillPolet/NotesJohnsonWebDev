@@ -1,0 +1,155 @@
+PWD c:\Users\willi\Desktop\code\JohnsonWebDev\Notes
+INPUT C:\Users\willi\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\Notes.tex
+OUTPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\Notes.log
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel\switch.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel-french\francais.ldf
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel-french\francais.ldf
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel-french\french.ldf
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel\txtbabel.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\carlisle\scalefnt.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\carlisle\scalefnt.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm1000.tfm
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\Notes.aux
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\Notes.aux
+OUTPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\Notes.aux
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\Notes.out
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\Notes.out
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\Notes.out
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\Notes.out
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\Notes.out
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\Notes.out
+OUTPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\Notes.out
+OUTPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\Notes.pdf
+INPUT C:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm1728.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecbx1728.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\chmod.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\chmod.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\chmod.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\chmod.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\chmod.png
+INPUT C:\Users\willi\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\chmodTerminal.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\chmodTerminal.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\chmodTerminal.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\chmodTerminal.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\chmodTerminal.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\Nano.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\Nano.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\Nano.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\Nano.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\Nano.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\Vim.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\Vim.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\Vim.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\Vim.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\Vim.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\VimTutor1.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\VimTutor1.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\VimTutor1.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\VimTutor1.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\VimTutor1.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\VimTutor2.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\VimTutor2.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\VimTutor2.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\VimTutor2.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\VimTutor2.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\VimMarkdown.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\VimMarkdown.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\VimMarkdown.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\VimMarkdown.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\VimMarkdown.png
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\Notes.aux
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\Notes.out
+INPUT c:\Users\willi\Desktop\code\JohnsonWebDev\Notes\Notes.out
+INPUT C:\Program Files\MiKTeX 2.9\fonts\enc\dvips\cm-super\cm-super-t1.enc
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\cm-super\sfbx1728.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\cm-super\sfbx1728.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\cm-super\sfrm1000.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\cm-super\sfrm1000.pfb
