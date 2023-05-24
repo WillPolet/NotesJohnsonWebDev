@@ -158,7 +158,47 @@ Let's do a little recap :
 With git add, we can choose the files that we add. (But it not happen in general) \\
 Difference between Master and Main, Master is just an old word for Main. \\
 \newpage
+\noindent\textbf{\underline{Initiate a repo with git init :}} \\ \\
+To initialize a repo with git init, go to the folder in your terminal, write \textcolor{red}{git init}. \\
+At every time remember that you can use the command \textcolor{red}{git status} to verify the status of your files. \\
+To track your files, use as usual the command \textcolor{red}{git add .}, after that you can \textcolor{red}{git commit -m "your message"} \\ \\
+\textcolor{blue}{First time it will ask you to login and run the commands \textcolor{red}{git config --global user.email "youremail@email.com"} \\
+and the command \textcolor{red}{git config --global user.name "Your Name"}, personally for the name I put my Github UserName} \\ \\
+Next you need to change the name of the branch : \textcolor{red}{git branch -M main} and add the link to the repository : \textcolor{red}{git remote add origin git@github.com:WillPolet/RepoName.git} \\ \\
+After that you can \textcolor{red}{git push origin main}, but be aware, if there was a README file into your repo created on github, this will cause a problem, here's how to solve it : \\
+Type these six commands in your terminal to install gh.
+{
+\color{blue}%
+\begin{verbatim}
+type -p curl >/dev/null || (sudo apt update && sudo apt install curl -y)
 
+curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share
+/keyrings/githubcli-archive-keyring.gpg \
+
+&& sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg \ 
+
+&& echo "deb \[arch=\$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive
+-keyring.gpg\] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/
+github-cli.list > /dev/null \ 
+
+&& sudo apt update \ 
+
+&& sudo apt install gh -y 
+\end{verbatim}
+}
+After you need to authentificate with gh with \textcolor{red}{gh auth login}, choose to login through HTTPS or SSH (had an issue with HTTPS so I did it with SSH after). \\ \\
+Very important, if you already had a README file, now you need to pull it by using this command : \textcolor{red}{git pull origin main --allow-unrelated-histories}. \\
+And now you should be able to \textcolor{red}{git push origin main} \\ \\
+So if there's no troubles, follow the instructions below, if there's a problem search in this document, if the problem persist go on google. \\ \\
+\begin{itemize}
+    \item Create a README.md file in your folder (optionnal)
+    \item \textcolor{red}{git init}
+    \item \textcolor{red}{git add .}
+    \item \textcolor{red}{git commit -m}
+    \item \textcolor{red}{git branch -M main}
+    \item \textcolor{red}{git remote add origin git@github.com:WillPolet/RepoName.git}
+    \item \textcolor{red}{git push -u main origin} -u is optionnal
+\end{itemize}
 %-------------------------------- NEW PAGE --------------------------------
 \newpage
 \begin{center}
